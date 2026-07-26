@@ -25,6 +25,7 @@ The workflow includes:
 The warehouse follows the **Medallion Architecture**.
 
 ### Bronze Layer
+![Bronze_Layer](docs/Bronze_layer_data_flow.drawio.png)
 - Stores raw source data
 - Minimal transformations
 - Serves as the landing zone for ingestion
