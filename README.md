@@ -31,6 +31,7 @@ The warehouse follows the **Medallion Architecture**.
 - Serves as the landing zone for ingestion
 
 ### Silver Layer
+![Silver_Layer](docs/silver.drawio.png)
 - Cleans and validates data
 - Removes duplicates
 - Standardizes formats
